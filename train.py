@@ -14,9 +14,9 @@ import numpy
 from sklearn import metrics
 from time import strftime, localtime
 
-#from transformers import BertModel
+from transformers import BertModel
 
-from pytorch-transformers import BertModel
+
 
 import torch
 import torch.nn as nn
